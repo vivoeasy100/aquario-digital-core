@@ -28,4 +28,8 @@ Classe principal: `ControleQualidadeAgua.java`
 
 ## 👥 Biólogos e Desenvolvedores Responsáveis
 
-* **Equipe de Desenvolvimento & QA:** @vivoeasy100
+* **Desenvolvedor / Analista:** Fernando Almeida
+* **Curso:** Análise e Desenvolvimento de Sistemas
+* **RA:** 326132695
+* **Instituição:** Una Barreiro
+* **GitHub:** [@vivoeasy100](https://github.com/vivoeasy100)
